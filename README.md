@@ -16,7 +16,3 @@ The aim of the BoeDoo App is to help employees find part-time work with the purp
 4. Search bar
 5. Share link
 6. Filter 
-
-## Admin Credential  
-- Username : admin6  
-- Password : admin6
